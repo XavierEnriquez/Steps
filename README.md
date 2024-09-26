@@ -1,6 +1,6 @@
-# Steps Project
+# Steps React Project
 
-This is a project from Udemy "Ultimate React Course 2024: React, Next.js, Redux & More by Jonas Schmedtmann.
+This is a small project from Udemy "Ultimate React Course 2024: React, Next.js, Redux & More" by Jonas Schmedtmann.
 
 ## Local Development Script
 
